@@ -49,7 +49,7 @@ li {
   text-align: right;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .header { 
     text-align: center;
   }
